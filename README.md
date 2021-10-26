@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obryantj
-- 👀 I’m interested in AI, building websites, and full stack development
+- 👀 I’m interested in AI, fish, and full stack development
 - 🌱 I’m currently pursuing my masters in computer science at UAB
 - 💞️ I’m looking to collaborate on a image recognition bot
 - 📫 How to reach me flyingseaturtledude@gmail.com
